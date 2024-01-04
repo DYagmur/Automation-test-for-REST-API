@@ -23,7 +23,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/api-automation-tests.git
+git clone https://github.com/DYagmur/Automation-test-for-REST-API
 cd api-automation-tests
 Install Python dependencies:
 
